@@ -1,0 +1,147 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "marca": "Asus",
+      "tipo": "portatil",
+      "nombre": "Computador Portátil ASUS Vivobook 15,6\" Pulgadas X1502ZA - Intel Core i5 - RAM 16GB - Disco SSD 512 GB - Azul",
+      "imagen": "asus.jpg",
+      "descripcion": "ASUS VivoBook 15 agrega estilo y dinamismo a la informática diaria. Cuenta con un procesador Intel Core i5 y SSD PCIe de gran capacidad para un almacenamiento muy rápido. Con colores sobresalientes y una tecla Enter diferencial. Recrea todo tipo de contenido con su imagen en resolución Full HD, además la pantalla NanoEdge de bisel delgado proporciona una experiencia de visualización expansiva e inmersiva al permitir una pantalla más grande en un marco más pequeño y con un peso total de solo 1,7 kg para que puedas llevarlo sin esfuerzo. ¡Adquiérelo ya!",
+      "precio": 3450000,
+      "descuento": 0
+    },
+    {
+      "id": 2,
+      "marca": "Apple",
+      "tipo": "portatil",
+      "nombre": "MacBook Air de 13\" Pulgadas MGN63LA/A Chip M1 RAM 8GB Disco Estado Solido 256 GB - Gris espacial",
+      "imagen": "ma.jpg",
+      "descripcion": "Un nuevo poder toma vuelo.El MacBook Air es el notebook más delgado y liviano de Apple, y vuelve completamente renovado por dentro. Gracias al chip M1 de Apple, la CPU es hasta 3,5 veces más rápida y la GPU hasta 5 veces más vleoz. El avanzado Neural Engine permite un aprendizaje automático hasta 9 veces superior. La batería es la de mayor duración en un MacBook Air. Y su diseño sin ventilador es supersilencioso. Nunca ha sido tan fácil llevar tanto poder a todos lados. ¡Encuentra el MacBook ideal para ti acá!",
+      "precio": 5200000,
+      "descuento": 35
+    },
+    {
+      "id": 3,
+      "marca": "Apple",
+      "tipo": "portatil",
+      "nombre": "MacBook Pro 16\" pulgadas MK183E/A Chip M1 Pro 512 GB SSD - Gris espacial",
+      "imagen": "mp.jpg",
+      "descripcion": "MacBook Pro. Todo el poder para los pro. El MacBook Pro ofrece a los usuarios más pro un rendiemiento revolucionario. Viene con el poderoso chip M1 Pro que permite resolver las tareas profesionales más exigentes con una excepcional duración de batería, una espectacular pantalla Liquid Retina XDR de 16 pulgadas y puertos avanzados para sacarle más provecho que nunca. ¡Encuentra el MacBook ideal para ti acá!",
+      "precio": 11990000,
+      "descuento": 15
+    },
+    {
+      "id": 4,
+      "marca": "Sony",
+      "tipo": "consola",
+      "nombre": "Consola PS4 1 TB + 1 Control Inalambrico + Juego God Of War Ragnarok",
+      "imagen": "ps4.jpg",
+      "descripcion": "¡Juegos increíbles, entrenamiento sin fin!. La consola PS4 ofrece una potenica de juego impresionante, entretenimiento increíble y tecnología de HRD intenso que tiene un disco duro de 1TB para que disfrutes los mejores juegos, tu música favorita y mucho más. Incluye Juego PS4 God Of War Ragnarok. Santa Monica Studio trae la secuela del aclamado God of War para PS4 (2018). Fimbulvetr ya está en camino. Kratos y Atreus deben viajar a cada uno de los nueve reinos en búsqueda de respuestas, mientras que las fuerzas asgardianas se preparan para una batalla profetizada que terminará con el mundo.'Lleva la tuya ahora'",
+      "precio": 2450000,
+      "descuento": 0
+    },
+    {
+      "id": 5,
+      "marca": "Sony",
+      "tipo": "consola",
+      "nombre": "Consola PS5 Estándar 825GB + 1 Control Dualsense + Voucher para descargar Juego Digital Fifa 23",
+      "imagen": "ps5.jpg",
+      "descripcion": "Obtén el Voucher Digital Pack PlayStation®5 + Fifa 23 Después de 30 años de la emblemática serie de fútbol FIFA de EA, su próxima entrega, Fifa 23 para Play, llegará a finales de este año. EA está preparando su último juego con la marca FIFA con la promesa de que será el más conectado, inclusivo, ambicioso y, en general, el más grande hasta la fecha. Disfruta al máximo de tus sesiones de juego gracias a unos tiempos de carga mínimos al instalar tus juegos. Experimenta cargas super rápidas gracias a una unidad de estado sólido de alta velocidad, una inmersión más profunda con retroalimentación háptica, gatillos adaptables y audio 3D, además de una nueva generación de increíbles juegos de PlayStation. No esperes más y adquiérela ya.",
+      "precio": 4500000,
+      "descuento": 0
+    },
+    {
+      "id": 6,
+      "marca": "Microsoft",
+      "tipo": "consola",
+      "nombre": "Consola XBOX Series S + 1 Control Inalámbrico",
+      "imagen": "ss.jpg",
+      "descripcion": "Solo digital , Todo de nueva generación: Pásate a lo digital con la Xbox Series S y crea una biblioteca de juegos digitales. Tus juegos, partidas guardadas y copias de seguridad están a salvo en la nube. Además, disfruta de la capacidad de reservar y preinstalar los juegos disponibles próximamente para que puedas jugar a ellos en el momento de su lanzamiento.",
+      "precio": 1900000,
+      "descuento": 0
+    },
+    {
+      "id": 7,
+      "marca": "Microsoft",
+      "tipo": "consola",
+      "nombre": "Consola XBOX Series X + 1 Control Inalámbrico + Paquete Forza Horizon 5",
+      "imagen": "sx.jpg",
+      "descripcion": "Comienza tu aventura definitiva con el Bundle de Consola Xbox Series X y la Edición Premium de Forza Horizon 5. Explora los vibrantes y siempre cambiantes paisajes del mundo abierto de México en los mejores autos del mundo. Los juegos que se han optimizado para Xbox Series X|S usan toda la potencia de las nuevas consolas para ofrecer velocidades de fotogramas más altas y estables de hasta 120 FPS durante el juego.Compra ya la tuya!!",
+      "precio": 3200000,
+      "descuento": 0
+    },
+    {
+      "id": 8,
+      "marca": "Nintendo",
+      "tipo": "consola",
+      "nombre": "Consola NINTENDO SWITCH™ w/ Neon Blue & Neon Red Joy-Con + Juego Mario Kart 8 Deluxe Descargable",
+      "imagen": "nintendo.jpg",
+      "descripcion": "NINTENDO SWITCH™ con los controles Joy-Con™ azul neón y rojo neón. Incluye juego descargable Mario Kart 8 Deluxe.",
+      "precio": 1700000,
+      "descuento": 0
+    },
+    {
+      "id": 9,
+      "marca": "Samsung",
+      "tipo": "celular",
+      "nombre": "Celular SAMSUNG Galaxy M23 128GB 5G Azul",
+      "imagen": "sam.jpg",
+      "descripcion": "Con el Galaxy M23, disfruta de un equipo potente, preparado para trabajar con tecnología 5G. Con su cámara triple que incluye un lente principal de 50 MP y funciones exclusivas, tus momentos van a quedar capturados con la mejor resolución y los mejores efectos. Amplía tu visión a la pantalla de 6,6 pulgadas del Galaxy M23 y mira lo que te has estado perdiendo. Además, la pantalla Super fluida de 120 Hz mantiene la vista sin retrasos, tanto si estás jugando como desplazándote en tus redes sociales. Con Galaxy M23 5G te sorprenderás de todos sus beneficios ¡poderosos! ¡Compra el tuyo ahora!",
+      "precio": 899000,
+      "descuento": 0
+    },
+    {
+      "id": 10,
+      "marca": "Samsung",
+      "tipo": "celular",
+      "nombre": "Celular Samsung Galaxy S23Ultra 5G 256Gb Negro",
+      "imagen": "sam23.jpg",
+      "descripcion": "El Samsung Galaxy S23 Ultra 5G es un Smartphone con todo lo que necesitas, diseño exclusivo, cámara profesional y un desempeño superior, además cuenta con una herramienta única, el S Pen que te ayudará a llevar tu productividad al mejor nivel.",
+      "precio": 6420000,
+      "descuento": 0
+    },
+    {
+      "id": 11,
+      "marca": "Apple",
+      "tipo": "celular",
+      "nombre": "iPhone 11 128 GB Blanco",
+      "imagen": "i11.jpg",
+      "descripcion": "El iPhone 11 Blanco tiene un sistema de dos cámaras que te permite tomar fotos con ultra gran angular, capturar exceelntes fotos nocturnas con el modo Noche y grabar videos con una calidad sorprendente. Además, es resistente al agua y al polvo,* tiene una batería de larga duración y viene en seis colores diferentes. Disfruta la espectacular experiencia de tener un iPhone 11. ¡Encuentra el iPhone ideal para ti acá!",
+      "precio": 3800000,
+      "descuento": 25
+    },
+    {
+      "id": 12,
+      "marca": "Apple",
+      "tipo": "celular",
+      "nombre": "iPhone 13 128GB Azul Medianoche",
+      "imagen": "i13.jpg",
+      "descripcion": "Diseñamos una arquitectura completamente nueva y giramos los lentes 45 grados. De esta manera, pudimos incluir nuestro sistema de dos cámaras más avanzado y un sensor de cámara gran angular más grande. Además, hicimos lugar para nuestra estabilización óptica de imagen por desplazamiento de sensor. Y equipamos la cámara ultra gran angular con un sensor más rápido.",
+      "precio": 4800000,
+      "descuento": 20
+    }
+  ],
+  "usuarios": [
+    {
+      "id": 1,
+      "nombre": "Diego",
+      "rol": 2,
+      "user": "diego0205",
+      "pass": "diego200223"
+    },
+    {
+      "id": 2,
+      "nombre": "Juan",
+      "rol": 2,
+      "user": "juan23",
+      "pass": "090376juan23"
+    },
+    {
+      "id": 3,
+      "nombre": "Admin",
+      "rol": 1,
+      "user": "aguser",
+      "pass": "ag12345"
+    }
+  ]
+}

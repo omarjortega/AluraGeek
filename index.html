@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="assets/css/style.css">
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+    <title>Ecommerce</title>
+</head>
+<body>
+    <nav>
+        <a href="index.html" style="text-decoration: none;"><h1 style="color: var(--text);">Alura<span style="color: var(--det1);">geek</span></h1></a>
+        
+        <div class="menu" id="menu">
+            <div class="search-box">
+                <input type="search" name="search-bar" id="search-bar">
+                <i class='bx bx-search' ></i>
+            </div>
+            <div class="menu-actions">
+                <a href="cart.html"><i class='bx bx-cart'></i></a>
+            </div>
+        </div>
+        
+        <i class='bx bx-menu' id="menu-icon"></i>
+    </nav>
+
+    <main>
+        <section class="hero">
+            <div class="hero-meet">
+                <h2>Revisa que producto quieres llevarte a casa</h2>
+                <p>Consulta en nuestra página por el equipo que estes buscando, te proporcionaremos planes con flexibilidad y te brindaremos la mejor experiencia</p>
+                <a class="btn-link btn btn1" href="#products">Productos</a>
+            </div>
+        </section>
+
+        <section class="info">
+            <div class="info-bar">
+                <div class="info-text"><i class="bx bx-car"></i> Envio gratis</div>
+                <div class="info-text"><i class="bx bx-package"></i> Reembolso en 30 días</div>
+                <div class="info-text"><i class="bx bxl-paypal"></i> Pago seguro</div>
+            </div>
+        </section>
+
+        <section class="banner">
+            <div class="banner-bar">
+                <div class="banner-meet">
+                    <h2>Los mejores productos a solo un click, llevate uno!</h2>
+                </div>
+                <div class="banner-illus"></div>
+            </div>
+        </section>
+
+        <section class="add-product">
+            
+        </section>
+
+        <section class="products" id="products">
+            <img src="assets/image/loading.gif" style="aspect-ratio: 1/1; max-width: 400px; width: 90%; margin: 0 auto;" alt="" id="load-image">
+        </section>
+    </main>
+
+    <footer>
+        <div class="more">
+            <div class="social">
+                <h2>Redes</h2>
+                <ul class="list-items">
+                    <li class="item-list"><a href="">Facebook</a></li>
+                    <li class="item-list"><a href="">Instagram</a></li>
+                    <li class="item-list"><a href="">Twitter</a></li>
+                </ul>
+            </div>
+
+            <div class="contacts">
+                <h2>Contactos</h2>
+                <ul class="list-items">
+                    <li class="item-list"><a href="tel:3015700310">3015700310</a></li>
+                    <li class="item-list"><a href="mailto:alurageek@gmail.com">alurageek@gmail.com</a></li>
+                </ul>
+            </div>
+
+            <div class="about">
+                <h2>Acerca</h2>
+                <p>Somos una pagina dedicada a la venta de productos electronicos para el uso diario. Nos aseguramos de darle a nuestros clientes la mejor experiencia brindandoles servicios y garantías para su satisfacción.</p>
+            </div>
+        </div>
+
+        <div class="firm">
+            Alurageek - Copyright 2023 - Todos los derechos Reservados
+        </div>
+    </footer>
+
+    <script type="module" src="controllers/product.controller.js"></script>
+</body>
+</html>
